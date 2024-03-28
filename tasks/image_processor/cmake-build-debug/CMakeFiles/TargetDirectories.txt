@@ -1,0 +1,5 @@
+/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/cmake-build-debug/CMakeFiles/image_processor.dir
+/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/cmake-build-debug/CMakeFiles/tests.dir
+/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/cmake-build-debug/CMakeFiles/test.dir
+/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/cmake-build-debug/CMakeFiles/rebuild_cache.dir

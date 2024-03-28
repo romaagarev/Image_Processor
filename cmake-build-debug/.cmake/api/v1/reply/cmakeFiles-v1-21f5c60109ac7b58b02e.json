@@ -1,0 +1,205 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/roman11/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/clion/clion-2023.2.1/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/roman11/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/clion/clion-2023.2.1/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/roman11/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/clion/clion-2023.2.1/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/roman11/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/clion/clion-2023.2.1/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/roman11/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/clion/clion-2023.2.1/bin/cmake/linux/x64/share/cmake-3.26/Modules/Platform/Linux.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/roman11/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/clion/clion-2023.2.1/bin/cmake/linux/x64/share/cmake-3.26/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/roman11/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/clion/clion-2023.2.1/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/roman11/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/clion/clion-2023.2.1/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/roman11/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/clion/clion-2023.2.1/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/roman11/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/clion/clion-2023.2.1/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/roman11/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/clion/clion-2023.2.1/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/roman11/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/clion/clion-2023.2.1/bin/cmake/linux/x64/share/cmake-3.26/Modules/Platform/Linux-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/roman11/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/clion/clion-2023.2.1/bin/cmake/linux/x64/share/cmake-3.26/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/roman11/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/clion/clion-2023.2.1/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/roman11/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/clion/clion-2023.2.1/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/roman11/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/clion/clion-2023.2.1/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/roman11/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/clion/clion-2023.2.1/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/roman11/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/clion/clion-2023.2.1/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/roman11/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/clion/clion-2023.2.1/bin/cmake/linux/x64/share/cmake-3.26/Modules/Platform/Linux-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/roman11/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/clion/clion-2023.2.1/bin/cmake/linux/x64/share/cmake-3.26/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/roman11/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/clion/clion-2023.2.1/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"path" : "cmake/BuildFlags.cmake"
+		},
+		{
+			"path" : "cmake/TestSolution.cmake"
+		},
+		{
+			"path" : "cmake/FindCatch.cmake"
+		},
+		{
+			"path" : "tasks/multiplication/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/next_even/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/is_leap/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/chocolate/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/min_divisor/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/fibonacci/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/reduce_fraction/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/palindrome/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/password/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/sort_students/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/tests_checking/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/admission/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/scorer/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/unixpath/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/provinces/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/search/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/rational/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/stack/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/queue/CMakeLists.txt"
+		},
+		{
+			"path" : "tasks/image_processor/CMakeLists.txt"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+		"source" : "/home/roman11/CLionProjects/ProjImageProcessor"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
