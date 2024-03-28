@@ -1,0 +1,434 @@
+[
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch -I/home/roman11/CLionProjects/ProjImageProcessor/util  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/contrib_catch_main.dir/contrib/catch/catch_main.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/contrib/catch/catch_main.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch/catch_main.cpp",
+  "output": "CMakeFiles/contrib_catch_main.dir/contrib/catch/catch_main.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/multiplication -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/multiplication/CMakeFiles/test_multiplication.dir/test.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/multiplication/test.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/multiplication/test.cpp",
+  "output": "tasks/multiplication/CMakeFiles/test_multiplication.dir/test.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/multiplication -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/multiplication/CMakeFiles/test_multiplication.dir/multiplication.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/multiplication/multiplication.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/multiplication/multiplication.cpp",
+  "output": "tasks/multiplication/CMakeFiles/test_multiplication.dir/multiplication.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/next_even -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/next_even/CMakeFiles/test_next_even.dir/test.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/next_even/test.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/next_even/test.cpp",
+  "output": "tasks/next_even/CMakeFiles/test_next_even.dir/test.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/next_even -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/next_even/CMakeFiles/test_next_even.dir/next_even.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/next_even/next_even.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/next_even/next_even.cpp",
+  "output": "tasks/next_even/CMakeFiles/test_next_even.dir/next_even.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/is_leap -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/is_leap/CMakeFiles/test_is_leap.dir/test.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/is_leap/test.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/is_leap/test.cpp",
+  "output": "tasks/is_leap/CMakeFiles/test_is_leap.dir/test.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/is_leap -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/is_leap/CMakeFiles/test_is_leap.dir/is_leap.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/is_leap/is_leap.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/is_leap/is_leap.cpp",
+  "output": "tasks/is_leap/CMakeFiles/test_is_leap.dir/is_leap.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/chocolate -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/chocolate/CMakeFiles/test_chocolate.dir/test.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/chocolate/test.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/chocolate/test.cpp",
+  "output": "tasks/chocolate/CMakeFiles/test_chocolate.dir/test.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/chocolate -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/chocolate/CMakeFiles/test_chocolate.dir/chocolate.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/chocolate/chocolate.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/chocolate/chocolate.cpp",
+  "output": "tasks/chocolate/CMakeFiles/test_chocolate.dir/chocolate.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/min_divisor -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/min_divisor/CMakeFiles/test_min_divisor.dir/test.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/min_divisor/test.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/min_divisor/test.cpp",
+  "output": "tasks/min_divisor/CMakeFiles/test_min_divisor.dir/test.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/min_divisor -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/min_divisor/CMakeFiles/test_min_divisor.dir/min_divisor.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/min_divisor/min_divisor.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/min_divisor/min_divisor.cpp",
+  "output": "tasks/min_divisor/CMakeFiles/test_min_divisor.dir/min_divisor.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/fibonacci -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/fibonacci/CMakeFiles/test_fibonacci.dir/test.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/fibonacci/test.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/fibonacci/test.cpp",
+  "output": "tasks/fibonacci/CMakeFiles/test_fibonacci.dir/test.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/fibonacci -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/fibonacci/CMakeFiles/test_fibonacci.dir/fibonacci.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/fibonacci/fibonacci.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/fibonacci/fibonacci.cpp",
+  "output": "tasks/fibonacci/CMakeFiles/test_fibonacci.dir/fibonacci.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/reduce_fraction -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/reduce_fraction/CMakeFiles/test_reduce_fraction.dir/test.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/reduce_fraction/test.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/reduce_fraction/test.cpp",
+  "output": "tasks/reduce_fraction/CMakeFiles/test_reduce_fraction.dir/test.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/reduce_fraction -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/reduce_fraction/CMakeFiles/test_reduce_fraction.dir/reduce_fraction.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/reduce_fraction/reduce_fraction.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/reduce_fraction/reduce_fraction.cpp",
+  "output": "tasks/reduce_fraction/CMakeFiles/test_reduce_fraction.dir/reduce_fraction.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/palindrome -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/palindrome/CMakeFiles/test_palindrome.dir/palindrome.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/palindrome/palindrome.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/palindrome/palindrome.cpp",
+  "output": "tasks/palindrome/CMakeFiles/test_palindrome.dir/palindrome.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/palindrome -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/palindrome/CMakeFiles/test_palindrome.dir/test.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/palindrome/test.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/palindrome/test.cpp",
+  "output": "tasks/palindrome/CMakeFiles/test_palindrome.dir/test.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/password -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/password/CMakeFiles/test_password.dir/password.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/password/password.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/password/password.cpp",
+  "output": "tasks/password/CMakeFiles/test_password.dir/password.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/password -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/password/CMakeFiles/test_password.dir/test.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/password/test.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/password/test.cpp",
+  "output": "tasks/password/CMakeFiles/test_password.dir/test.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/sort_students -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/sort_students/CMakeFiles/test_sort_students.dir/test.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/sort_students/test.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/sort_students/test.cpp",
+  "output": "tasks/sort_students/CMakeFiles/test_sort_students.dir/test.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/sort_students -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/sort_students/CMakeFiles/test_sort_students.dir/sort_students.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/sort_students/sort_students.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/sort_students/sort_students.cpp",
+  "output": "tasks/sort_students/CMakeFiles/test_sort_students.dir/sort_students.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/tests_checking -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/tests_checking/CMakeFiles/test_tests_checking.dir/tests_checking.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/tests_checking/tests_checking.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/tests_checking/tests_checking.cpp",
+  "output": "tasks/tests_checking/CMakeFiles/test_tests_checking.dir/tests_checking.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/tests_checking -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/tests_checking/CMakeFiles/test_tests_checking.dir/test.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/tests_checking/test.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/tests_checking/test.cpp",
+  "output": "tasks/tests_checking/CMakeFiles/test_tests_checking.dir/test.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/admission -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/admission/CMakeFiles/test_admission.dir/admission.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/admission/admission.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/admission/admission.cpp",
+  "output": "tasks/admission/CMakeFiles/test_admission.dir/admission.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/admission -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/admission/CMakeFiles/test_admission.dir/test.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/admission/test.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/admission/test.cpp",
+  "output": "tasks/admission/CMakeFiles/test_admission.dir/test.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/scorer -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/scorer/CMakeFiles/test_scorer.dir/test.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/scorer/test.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/scorer/test.cpp",
+  "output": "tasks/scorer/CMakeFiles/test_scorer.dir/test.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/scorer -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/scorer/CMakeFiles/test_scorer.dir/scorer.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/scorer/scorer.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/scorer/scorer.cpp",
+  "output": "tasks/scorer/CMakeFiles/test_scorer.dir/scorer.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/unixpath -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/unixpath/CMakeFiles/test_unixpath.dir/test.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/unixpath/test.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/unixpath/test.cpp",
+  "output": "tasks/unixpath/CMakeFiles/test_unixpath.dir/test.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/unixpath -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/unixpath/CMakeFiles/test_unixpath.dir/unixpath.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/unixpath/unixpath.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/unixpath/unixpath.cpp",
+  "output": "tasks/unixpath/CMakeFiles/test_unixpath.dir/unixpath.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/provinces -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/provinces/CMakeFiles/test_provinces.dir/test.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/provinces/test.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/provinces/test.cpp",
+  "output": "tasks/provinces/CMakeFiles/test_provinces.dir/test.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/provinces -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/provinces/CMakeFiles/test_provinces.dir/provinces.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/provinces/provinces.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/provinces/provinces.cpp",
+  "output": "tasks/provinces/CMakeFiles/test_provinces.dir/provinces.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/search -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/search/CMakeFiles/test_search.dir/test.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/search/test.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/search/test.cpp",
+  "output": "tasks/search/CMakeFiles/test_search.dir/test.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/search -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/search/CMakeFiles/test_search.dir/search.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/search/search.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/search/search.cpp",
+  "output": "tasks/search/CMakeFiles/test_search.dir/search.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/rational -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/rational/CMakeFiles/test_rational.dir/test.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/rational/test.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/rational/test.cpp",
+  "output": "tasks/rational/CMakeFiles/test_rational.dir/test.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/rational -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/rational/CMakeFiles/test_rational.dir/rational.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/rational/rational.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/rational/rational.cpp",
+  "output": "tasks/rational/CMakeFiles/test_rational.dir/rational.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/stack -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/stack/CMakeFiles/test_stack.dir/test.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/stack/test.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/stack/test.cpp",
+  "output": "tasks/stack/CMakeFiles/test_stack.dir/test.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/stack -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/stack/CMakeFiles/test_stack.dir/stack.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/stack/stack.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/stack/stack.cpp",
+  "output": "tasks/stack/CMakeFiles/test_stack.dir/stack.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/queue -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/queue/CMakeFiles/test_queue.dir/test.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/queue/test.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/queue/test.cpp",
+  "output": "tasks/queue/CMakeFiles/test_queue.dir/test.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/queue -I/home/roman11/CLionProjects/ProjImageProcessor/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/queue/CMakeFiles/test_queue.dir/queue.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/queue/queue.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/queue/queue.cpp",
+  "output": "tasks/queue/CMakeFiles/test_queue.dir/queue.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/image_processor.dir/Sources/image_processor.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/image_processor.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/image_processor.cpp",
+  "output": "tasks/image_processor/CMakeFiles/image_processor.dir/Sources/image_processor.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/image_processor.dir/Sources/Image.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Image.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Image.cpp",
+  "output": "tasks/image_processor/CMakeFiles/image_processor.dir/Sources/Image.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/image_processor.dir/Sources/Pixel.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Pixel.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Pixel.cpp",
+  "output": "tasks/image_processor/CMakeFiles/image_processor.dir/Sources/Pixel.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/image_processor.dir/Sources/Filters/Negative.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/Negative.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/Negative.cpp",
+  "output": "tasks/image_processor/CMakeFiles/image_processor.dir/Sources/Filters/Negative.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/image_processor.dir/Sources/Filters/Sharpening.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/Sharpening.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/Sharpening.cpp",
+  "output": "tasks/image_processor/CMakeFiles/image_processor.dir/Sources/Filters/Sharpening.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/image_processor.dir/Sources/Filters/EdgeDetection.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/EdgeDetection.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/EdgeDetection.cpp",
+  "output": "tasks/image_processor/CMakeFiles/image_processor.dir/Sources/Filters/EdgeDetection.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/image_processor.dir/Sources/Filters/Grayscale.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/Grayscale.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/Grayscale.cpp",
+  "output": "tasks/image_processor/CMakeFiles/image_processor.dir/Sources/Filters/Grayscale.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/image_processor.dir/Sources/Filters/Crop.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/Crop.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/Crop.cpp",
+  "output": "tasks/image_processor/CMakeFiles/image_processor.dir/Sources/Filters/Crop.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/image_processor.dir/Sources/Filters/Filter.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/Filter.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/Filter.cpp",
+  "output": "tasks/image_processor/CMakeFiles/image_processor.dir/Sources/Filters/Filter.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/image_processor.dir/Sources/IO/WritingBMP.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/IO/WritingBMP.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/IO/WritingBMP.cpp",
+  "output": "tasks/image_processor/CMakeFiles/image_processor.dir/Sources/IO/WritingBMP.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/image_processor.dir/Sources/IO/ReadingBMP.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/IO/ReadingBMP.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/IO/ReadingBMP.cpp",
+  "output": "tasks/image_processor/CMakeFiles/image_processor.dir/Sources/IO/ReadingBMP.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/image_processor.dir/Sources/Controller.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Controller.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Controller.cpp",
+  "output": "tasks/image_processor/CMakeFiles/image_processor.dir/Sources/Controller.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/image_processor.dir/Sources/Filters/GaussianBlur.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/GaussianBlur.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/GaussianBlur.cpp",
+  "output": "tasks/image_processor/CMakeFiles/image_processor.dir/Sources/Filters/GaussianBlur.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/image_processor.dir/Sources/Filters/Hexagones.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/Hexagones.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/Hexagones.cpp",
+  "output": "tasks/image_processor/CMakeFiles/image_processor.dir/Sources/Filters/Hexagones.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/image_processor.dir/Sources/Info.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Info.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Info.cpp",
+  "output": "tasks/image_processor/CMakeFiles/image_processor.dir/Sources/Info.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/image_processor.dir/Sources/Exceptions.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Exceptions.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Exceptions.cpp",
+  "output": "tasks/image_processor/CMakeFiles/image_processor.dir/Sources/Exceptions.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/image_processor.dir/Sources/Filters/MatrixFilter.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/MatrixFilter.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/MatrixFilter.cpp",
+  "output": "tasks/image_processor/CMakeFiles/image_processor.dir/Sources/Filters/MatrixFilter.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/tests.dir/Tests/tests.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Tests/tests.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Tests/tests.cpp",
+  "output": "tasks/image_processor/CMakeFiles/tests.dir/Tests/tests.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/tests.dir/Sources/Image.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Image.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Image.cpp",
+  "output": "tasks/image_processor/CMakeFiles/tests.dir/Sources/Image.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/tests.dir/Sources/Pixel.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Pixel.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Pixel.cpp",
+  "output": "tasks/image_processor/CMakeFiles/tests.dir/Sources/Pixel.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/tests.dir/Sources/Filters/Negative.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/Negative.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/Negative.cpp",
+  "output": "tasks/image_processor/CMakeFiles/tests.dir/Sources/Filters/Negative.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/tests.dir/Sources/Filters/Sharpening.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/Sharpening.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/Sharpening.cpp",
+  "output": "tasks/image_processor/CMakeFiles/tests.dir/Sources/Filters/Sharpening.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/tests.dir/Sources/Filters/EdgeDetection.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/EdgeDetection.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/EdgeDetection.cpp",
+  "output": "tasks/image_processor/CMakeFiles/tests.dir/Sources/Filters/EdgeDetection.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/tests.dir/Sources/Filters/Grayscale.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/Grayscale.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/Grayscale.cpp",
+  "output": "tasks/image_processor/CMakeFiles/tests.dir/Sources/Filters/Grayscale.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/tests.dir/Sources/Filters/Crop.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/Crop.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/Crop.cpp",
+  "output": "tasks/image_processor/CMakeFiles/tests.dir/Sources/Filters/Crop.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/tests.dir/Sources/Filters/Filter.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/Filter.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/Filter.cpp",
+  "output": "tasks/image_processor/CMakeFiles/tests.dir/Sources/Filters/Filter.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/tests.dir/Sources/IO/WritingBMP.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/IO/WritingBMP.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/IO/WritingBMP.cpp",
+  "output": "tasks/image_processor/CMakeFiles/tests.dir/Sources/IO/WritingBMP.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/tests.dir/Sources/IO/ReadingBMP.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/IO/ReadingBMP.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/IO/ReadingBMP.cpp",
+  "output": "tasks/image_processor/CMakeFiles/tests.dir/Sources/IO/ReadingBMP.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/tests.dir/Sources/Controller.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Controller.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Controller.cpp",
+  "output": "tasks/image_processor/CMakeFiles/tests.dir/Sources/Controller.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/tests.dir/Sources/Filters/GaussianBlur.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/GaussianBlur.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/GaussianBlur.cpp",
+  "output": "tasks/image_processor/CMakeFiles/tests.dir/Sources/Filters/GaussianBlur.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/tests.dir/Sources/Filters/Hexagones.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/Hexagones.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Filters/Hexagones.cpp",
+  "output": "tasks/image_processor/CMakeFiles/tests.dir/Sources/Filters/Hexagones.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/tests.dir/Sources/Info.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Info.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Info.cpp",
+  "output": "tasks/image_processor/CMakeFiles/tests.dir/Sources/Info.cpp.o"
+},
+{
+  "directory": "/home/roman11/CLionProjects/ProjImageProcessor/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/roman11/CLionProjects/ProjImageProcessor/util -I/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/./Headers  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -fdiagnostics-color=always -o tasks/image_processor/CMakeFiles/tests.dir/Sources/Exceptions.cpp.o -c /home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Exceptions.cpp",
+  "file": "/home/roman11/CLionProjects/ProjImageProcessor/tasks/image_processor/Sources/Exceptions.cpp",
+  "output": "tasks/image_processor/CMakeFiles/tests.dir/Sources/Exceptions.cpp.o"
+}
+]
